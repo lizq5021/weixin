@@ -30,7 +30,7 @@ Welcome to Pull Requests!
 
 **将项目下载到本地**
 ```shell
-git clone https://github.com/wechat-group/weixin-java-tools-springmvc
+git clone https://github.com/lizq5021/weixin.git
 ```
 
 **配置公众号信息**
@@ -50,7 +50,7 @@ mvn war:war
 
 进入到**微信公众平台**的`开发/基本配置`页面，配置`URL(服务器地址)`、`Token(令牌)`、`EncodingAESKey(消息加解密密钥）`。
 ```shell
-URL(服务器地址)：http://192.168.1.1/wechatTestService/core
+URL(服务器地址)：http://192.168.1.1/weixin/core
 ```
 
 ## License
