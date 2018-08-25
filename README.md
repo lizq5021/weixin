@@ -30,7 +30,7 @@ Welcome to Pull Requests!
 
 **将项目下载到本地**
 ```shell
-git clone https://github.com/lizq5021/weixin.git
+git clone  https://github.com/lizq5021/weixin-spring.git
 ```
 
 **配置公众号信息**
